@@ -1,0 +1,15 @@
+C:\Users\k\Desktop\Varit\Q1\bin\Debug\net6.0\Varit.exe
+C:\Users\k\Desktop\Varit\Q1\bin\Debug\net6.0\Varit.deps.json
+C:\Users\k\Desktop\Varit\Q1\bin\Debug\net6.0\Varit.runtimeconfig.json
+C:\Users\k\Desktop\Varit\Q1\bin\Debug\net6.0\Varit.dll
+C:\Users\k\Desktop\Varit\Q1\bin\Debug\net6.0\Varit.pdb
+C:\Users\k\Desktop\Varit\Q1\obj\Debug\net6.0\Varit.csproj.AssemblyReference.cache
+C:\Users\k\Desktop\Varit\Q1\obj\Debug\net6.0\Varit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k\Desktop\Varit\Q1\obj\Debug\net6.0\Varit.AssemblyInfoInputs.cache
+C:\Users\k\Desktop\Varit\Q1\obj\Debug\net6.0\Varit.AssemblyInfo.cs
+C:\Users\k\Desktop\Varit\Q1\obj\Debug\net6.0\Varit.csproj.CoreCompileInputs.cache
+C:\Users\k\Desktop\Varit\Q1\obj\Debug\net6.0\Varit.dll
+C:\Users\k\Desktop\Varit\Q1\obj\Debug\net6.0\refint\Varit.dll
+C:\Users\k\Desktop\Varit\Q1\obj\Debug\net6.0\Varit.pdb
+C:\Users\k\Desktop\Varit\Q1\obj\Debug\net6.0\Varit.genruntimeconfig.cache
+C:\Users\k\Desktop\Varit\Q1\obj\Debug\net6.0\ref\Varit.dll
