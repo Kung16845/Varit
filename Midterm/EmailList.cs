@@ -26,8 +26,16 @@ public class EmailList
             }
             else
             {               
-                n = "1";
-                return n;
+                if(Emails == "exit")
+                {
+                    n = "Back";
+                    return n;
+                }
+                else 
+                {
+                    n = "1";
+                    return n;
+                }
             }
         }
         return n;
