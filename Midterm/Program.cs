@@ -1,4 +1,4 @@
-﻿enum Menu
+enum Menu
 {
     Collegien = 1,
     Student,
@@ -100,19 +100,28 @@ public class Program
         Console.WriteLine("Number of StudentM4 : {0}",countM4);
         Console.WriteLine("Number of StudentM5 : {0}",countM5);
         Console.WriteLine("Number of StudentM6 : {0}",countM6);
-       System.Threading.Thread.Sleep(5000);
+        System.Threading.Thread.Sleep(5000);
         HomePage();
     }
     static void ShowLogInMenu()
     {
         Console.Clear();   
-        if (Program.emailList.CheckEmail(InputEmail(),InputPassword()) != null)
+        string n = Program.emailList.CheckEmail(InputEmail(),InputPassword());
+        if (n != null || n == "Back")
         {
-            HomePageAfterLogin();
+            if(n == "Back")
+            {
+                HomePage();
+            }
+            else 
+            {
+                HomePageAfterLogin();
+            }
         }
         else 
         {
             Console.WriteLine("Incorrect email or password. Please try again.");
+            System.Threading.Thread.Sleep(5000);
             ShowLogInMenu();
         }
     }
