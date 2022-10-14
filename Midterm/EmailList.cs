@@ -19,13 +19,8 @@ public class EmailList
         {
             string Emails = email;
             string Passwords = password;
-            if(Emails == emails.GetEmail() && Passwords == emails.GetPassword())
+            if(Emails == emails.GetEmail() || Passwords == emails.GetPassword() || Emails == "exit")
             {
-                n = "Again";
-                return n;
-            }
-            else
-            {               
                 if(Emails == "exit")
                 {
                     n = "Back";
@@ -33,10 +28,10 @@ public class EmailList
                 }
                 else 
                 {
-                    n = "1";
-                    return n;
+                n = "Again";
+                return n;
                 }
-            }
+            }            
         }
         return n;
     }
