@@ -48,8 +48,6 @@
         {
             Console.Write(Inputchar.Get(i));
         }
-       
-        
     }
     static char Inputcharacter()
     {
