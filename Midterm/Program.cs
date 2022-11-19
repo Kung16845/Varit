@@ -177,7 +177,7 @@ public class Program
             System.Threading.Thread.Sleep(5000);
             InputCollegien();
         }
-
+        
         Program.personList.AddNewPerson(collegian); 
     }
     
@@ -295,14 +295,11 @@ public class Program
         switch (Religion)
         {
             case 1 :
-                countM4++;
-                return "M.4";
+                return "Buddhish";
             case 2 :
-                countM5++;
-                return "M.5";
+                return "Christianity";
             case 3 :
-                countM6++;
-                return "M.6";
+                return "Islam";
             case 4 : 
                 return "Other";
             default: 
@@ -327,10 +324,13 @@ public class Program
         switch (Level)
         {
             case 1 :
+                countM4++;
                 return "M.4";
             case 2 :
+                countM5++;
                 return "M.5";
             case 3 :
+                countM6++;
                 return "M.6";
             default: 
                 break;

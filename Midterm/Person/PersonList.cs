@@ -25,11 +25,6 @@ public class PersonList
                 n = null;
                 return n;
             }
-            else
-            {               
-                n = "1";
-                return n;
-            }
         }
         return n;
     }
