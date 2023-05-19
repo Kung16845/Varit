@@ -1,0 +1,15 @@
+C:\Users\k\Desktop\HW04\gdm222_2565_week14_example\no_3\bin\Debug\net6.0\no_3.exe
+C:\Users\k\Desktop\HW04\gdm222_2565_week14_example\no_3\bin\Debug\net6.0\no_3.deps.json
+C:\Users\k\Desktop\HW04\gdm222_2565_week14_example\no_3\bin\Debug\net6.0\no_3.runtimeconfig.json
+C:\Users\k\Desktop\HW04\gdm222_2565_week14_example\no_3\bin\Debug\net6.0\no_3.dll
+C:\Users\k\Desktop\HW04\gdm222_2565_week14_example\no_3\bin\Debug\net6.0\no_3.pdb
+C:\Users\k\Desktop\HW04\gdm222_2565_week14_example\no_3\obj\Debug\net6.0\no_3.csproj.AssemblyReference.cache
+C:\Users\k\Desktop\HW04\gdm222_2565_week14_example\no_3\obj\Debug\net6.0\no_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k\Desktop\HW04\gdm222_2565_week14_example\no_3\obj\Debug\net6.0\no_3.AssemblyInfoInputs.cache
+C:\Users\k\Desktop\HW04\gdm222_2565_week14_example\no_3\obj\Debug\net6.0\no_3.AssemblyInfo.cs
+C:\Users\k\Desktop\HW04\gdm222_2565_week14_example\no_3\obj\Debug\net6.0\no_3.csproj.CoreCompileInputs.cache
+C:\Users\k\Desktop\HW04\gdm222_2565_week14_example\no_3\obj\Debug\net6.0\no_3.dll
+C:\Users\k\Desktop\HW04\gdm222_2565_week14_example\no_3\obj\Debug\net6.0\refint\no_3.dll
+C:\Users\k\Desktop\HW04\gdm222_2565_week14_example\no_3\obj\Debug\net6.0\no_3.pdb
+C:\Users\k\Desktop\HW04\gdm222_2565_week14_example\no_3\obj\Debug\net6.0\no_3.genruntimeconfig.cache
+C:\Users\k\Desktop\HW04\gdm222_2565_week14_example\no_3\obj\Debug\net6.0\ref\no_3.dll
